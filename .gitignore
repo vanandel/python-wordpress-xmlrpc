@@ -4,5 +4,5 @@
 .DS_Store
 dist/*
 wp-config.cfg
-
+build
 /docs/_build
